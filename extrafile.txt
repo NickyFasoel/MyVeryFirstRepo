@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+voor 5 man
+
 ffffffaaaaa
-=======
-ffffffaaaaaaaa
->>>>>>> test
+
